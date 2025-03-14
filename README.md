@@ -1,1 +1,1 @@
-# directus-medical-system
+# medical-app-project
